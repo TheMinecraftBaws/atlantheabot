@@ -1,1 +1,1 @@
-web: java -jar ABot.jar
+worker: java -jar ABot.jar
